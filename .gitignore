@@ -1,4 +1,0 @@
-*.json
-/*.py
-/node_modules
-.env
